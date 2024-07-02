@@ -1,10 +1,8 @@
 # BrainBunny Backend (Django)
 
 Welcome to the BrainBunny Backend repository!
-**It is a simple quiz application** created using Bootstrap and Django on my [YouTube Channel](https://youtube.com/@rskcode).
+**It is a simple quiz application** created using Bootstrap and Django.
 This repository contains the Django backend code for the BrainBunny project.
-
-![BrainBunny](https://github.com/rsk-2002/brainbunny-backend-django/assets/89301813/a8967efa-101c-40c7-860f-ed246af2e153)
 
 ## To run the BrainBunny backend locally:
 
